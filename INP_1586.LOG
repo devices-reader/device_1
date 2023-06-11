@@ -1,0 +1,3290 @@
+
+
+ Output: out = 10  in = 04 
+ 1B  01  30  30  30  30  30  30  4E  9B 
+
+ Output: out = 05  in = 11 
+ 1B  04  00  03  07 
+
+ Output: out = 10  in = 04 
+ 1B  01  30  30  30  30  30  30  4E  9B 
+
+ Output: out = 05  in = 11 
+ 1B  04  00  03  07 
+
+ Output: out = 10  in = 04 
+ 1B  01  30  30  30  30  30  30  4E  9B 
+
+ Output: out = 05  in = 11 
+ 1B  04  00  03  07 
+
+ Output: out = 10  in = 04 
+ 1B  01  30  30  30  30  30  30  4E  9B 
+
+ Output: out = 05  in = 11 
+ 1B  04  00  03  07 
+
+ Output: out = 10  in = 04 
+ 1B  01  30  30  30  30  30  30  4E  9B 
+
+ Output: out = 05  in = 11 
+ 1B  04  00  03  07 
+
+ Output: out = 10  in = 04 
+ 1B  01  30  30  30  30  30  30  4E  9B 
+
+ Output: out = 05  in = 11 
+ 1B  04  00  03  07 
+
+ Output: out = 10  in = 04 
+ 1B  01  30  30  30  30  30  30  4E  9B 
+
+ Output: out = 05  in = 11 
+ 1B  04  00  03  07 
+
+ Output: out = 10  in = 04 
+ 1B  01  30  30  30  30  30  30  4E  9B 
+
+ Output: out = 05  in = 11 
+ 1B  04  00  03  07 
+
+ Output: out = 10  in = 04 
+ 1B  01  30  30  30  30  30  30  4E  9B 
+
+ Output: out = 05  in = 11 
+ 1B  04  00  03  07 
+
+ Output: out = 10  in = 04 
+ 1B  01  30  30  30  30  30  30  4E  9B 
+
+ Output: out = 05  in = 11 
+ 1B  04  00  03  07 
+
+ Output: out = 10  in = 04 
+ 1B  01  30  30  30  30  30  30  4E  9B 
+
+ Output: out = 05  in = 11 
+ 1B  04  00  03  07 
+
+ Output: out = 10  in = 04 
+ 1B  01  30  30  30  30  30  30  4E  9B 
+
+ Output: out = 05  in = 11 
+ 1B  04  00  03  07 
+
+ Output: out = 10  in = 04 
+ 1B  01  30  30  30  30  30  30  4E  9B 
+
+ Output: out = 05  in = 11 
+ 1B  04  00  03  07 
+
+ Output: out = 10  in = 04 
+ 1B  01  30  30  30  30  30  30  4E  9B 
+
+ Output: out = 05  in = 11 
+ 1B  04  00  03  07 
+
+ Output: out = 10  in = 04 
+ 1B  01  30  30  30  30  30  30  4E  9B 
+
+ Output: out = 05  in = 11 
+ 1B  04  00  03  07 
+ step 1
+ step 2
+ step 3
+ step 4
+ step 5
+ step 101
+ step 102 00 
+ step 104 00 
+ step 105 00 
+ step 106
+ step 107
+ step 108
+ step 109
+ step 10a
+ step 10b
+ step 10c
+ step 10d
+ step 10e
+ step 999
+
+ Output: out = 10  in = 04 
+ 1B  01  30  30  30  30  30  30  4E  9B 
+ Input: in = 04 
+ 1B  00  0B  40 
+
+ Output: out = 05  in = 11 
+ 1B  04  00  03  07 
+ Input: in = 11 
+ 1B  30  25  21  01  25  07  11  00  4E  3A 
+
+ Output: out = 08  in = 04 
+ 1B  03  0D  28  25  21  1F  DC 
+ Input: in = 04 
+ 1B  00  0B  40 
+
+ Output: out = 05  in = 11 
+ 1B  04  00  03  07 
+ Input: in = 11 
+ 1B  28  25  21  01  25  07  11  00  4E  90 
+
+ Output: out = 05  in = 10 
+ 1B  08  04  07  C4 
+ Input: in = 10 
+ 1B  80  21  25  07  11  92  F0  F6  5F 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  92  E8  08  65  9F 
+ Input: in = 11 
+ 1B  21  25  07  11  00  1E  7C  00  BE  64 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  92  F0  10  6F  95 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  01  00  00  00  00  00  06  7D  75 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  92  D0  08  76  5F 
+ Input: in = 11 
+ 1B  20  25  07  11  00  1E  7B  00  7D  98 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  92  D8  10  71  95 
+ Input: in = 19 
+ 1B  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  0A  87 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  92  B8  08  59  9F 
+ Input: in = 11 
+ 1B  17  16  07  11  00  1E  63  00  36  69 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  92  C0  10  7B  95 
+ Input: in = 19 
+ 1B  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  0A  87 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  92  A0  08  53  9F 
+ Input: in = 11 
+ 1B  16  16  07  11  00  1E  62  00  F6  35 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  92  A8  10  54  55 
+ Input: in = 19 
+ 1B  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  0A  87 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  92  88  08  4D  9F 
+ Input: in = 11 
+ 1B  21  14  07  11  00  1E  6B  00  91  57 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  92  90  10  47  95 
+ Input: in = 19 
+ 1B  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  0A  87 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  92  70  08  0E  5F 
+ Input: in = 11 
+ 1B  20  14  07  11  00  1E  6A  00  51  0B 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  92  78  10  09  95 
+ Input: in = 19 
+ 1B  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  0A  87 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  92  58  08  10  5F 
+ Input: in = 11 
+ 1B  14  06  07  11  00  1E  50  FF  33  0D 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  92  60  10  03  95 
+ Input: in = 19 
+ 1B  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  0A  87 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  92  40  08  1A  5F 
+ Input: in = 11 
+ 1B  13  06  07  11  00  1E  4F  00  3A  9B 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  92  48  10  1D  95 
+ Input: in = 19 
+ 1B  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  0A  87 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  92  28  08  35  9F 
+ Input: in = 11 
+ 1B  12  06  07  11  00  1E  4E  00  FA  C7 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  92  30  10  3F  95 
+ Input: in = 19 
+ 1B  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  0A  87 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  92  10  08  26  5F 
+ Input: in = 11 
+ 1B  11  06  07  11  00  1E  4D  00  BA  22 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  92  18  10  21  95 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  35  00  16  00  00  00  00  00  21  B5  16 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  91  F8  08  98  5F 
+ Input: in = 11 
+ 1B  10  06  07  11  00  1E  4C  00  7A  7E 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  92  00  10  2B  95 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  35  00  24  00  00  00  00  00  34  67  1A 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  91  E0  08  92  5F 
+ Input: in = 11 
+ 1B  09  06  07  11  00  1E  45  00  BD  48 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  91  E8  10  95  95 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  35  00  24  00  00  00  00  00  36  A1  D9 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  91  C8  08  8C  5F 
+ Input: in = 11 
+ 1B  08  06  07  11  00  1E  44  00  7D  14 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  91  D0  10  86  55 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  16  00  00  00  00  00  23  DB  AF 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  91  B0  08  AE  5F 
+ Input: in = 11 
+ 1B  07  06  07  11  00  1E  43  FF  7F  24 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  91  B8  10  A9  95 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  02  00  00  00  00  00  07  8F  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  91  98  08  B0  5F 
+ Input: in = 11 
+ 1B  06  06  07  11  00  1E  42  00  FF  38 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  91  A0  10  A3  95 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  02  00  00  00  00  00  08  CF  B1 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  91  80  08  BA  5F 
+ Input: in = 11 
+ 1B  05  06  07  11  00  1E  41  00  BF  DD 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  91  88  10  BD  95 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  01  00  00  00  00  00  07  FF  B4 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  91  68  08  F4  5F 
+ Input: in = 11 
+ 1B  04  06  07  11  00  1E  40  00  7F  81 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  91  70  10  FE  55 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  06  00  01  00  00  00  00  00  07  F2  24 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  91  50  08  E7  9F 
+ Input: in = 11 
+ 1B  03  06  07  11  00  1E  3F  00  1E  57 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  91  58  10  E0  55 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  01  00  00  00  00  00  07  BC  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  91  38  08  C8  5F 
+ Input: in = 11 
+ 1B  02  06  07  11  00  1E  3E  00  DE  0B 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  91  40  10  EA  55 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  02  00  00  00  00  00  06  4E  75 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  91  20  08  C2  5F 
+ Input: in = 11 
+ 1B  01  06  07  11  00  1E  3D  00  9E  EE 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  91  28  10  C5  95 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  02  00  00  00  00  00  07  8F  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  91  08  08  DC  5F 
+ Input: in = 11 
+ 1B  00  06  07  11  00  1E  3C  FF  1E  F2 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  91  10  10  D6  55 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  01  00  00  00  00  00  06  3E  74 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  90  F0  08  CE  5F 
+ Input: in = 11 
+ 1B  23  05  07  11  00  1E  5E  00  06  DF 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  90  F8  10  C9  95 
+ Input: in = 19 
+ 1B  00  10  00  00  00  00  00  1A  00  01  00  00  00  00  00  07  F8  E9 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  90  D8  08  D0  5F 
+ Input: in = 11 
+ 1B  22  05  07  11  00  1E  5D  00  C7  E3 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  90  E0  10  C3  95 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  31  00  24  00  00  00  00  00  34  55  DA 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  90  C0  08  DA  5F 
+ Input: in = 11 
+ 1B  21  05  07  11  00  1E  5C  00  86  66 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  90  C8  10  DD  95 
+ Input: in = 19 
+ 1B  00  06  00  00  00  00  00  0D  00  1A  00  00  00  00  00  25  AE  0F 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  90  A8  08  F5  9F 
+ Input: in = 11 
+ 1B  20  05  07  11  00  1E  5B  00  45  9A 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  90  B0  10  FF  95 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  06  00  14  00  00  00  00  00  1E  34  2E 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  90  90  08  E6  5F 
+ Input: in = 11 
+ 1B  19  05  07  11  00  1E  54  00  83  14 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  90  98  10  E1  95 
+ Input: in = 19 
+ 1B  00  00  00  00  00  00  00  06  00  01  00  00  00  00  00  07  70  25 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  90  78  08  A8  5F 
+ Input: in = 11 
+ 1B  18  05  07  11  00  1E  53  00  40  E8 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  90  80  10  EB  95 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  01  00  00  00  00  00  07  BC  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  90  60  08  A2  5F 
+ Input: in = 11 
+ 1B  17  05  07  11  00  1E  52  FF  41  78 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  90  68  10  A5  95 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  33  00  03  00  00  00  00  00  09  DA  69 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  90  48  08  BC  5F 
+ Input: in = 11 
+ 1B  16  05  07  11  00  1E  51  00  C0  04 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  90  50  10  B6  55 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  33  00  23  00  00  00  00  00  33  7B  B8 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  90  30  08  9E  5F 
+ Input: in = 11 
+ 1B  15  05  07  11  00  1E  50  00  81  81 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  90  38  10  99  95 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  33  00  24  00  00  00  00  00  33  0D  78 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  90  18  08  80  5F 
+ Input: in = 11 
+ 1B  14  05  07  11  00  1E  4F  00  48  7D 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  90  20  10  93  95 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  32  00  23  00  00  00  00  00  32  B7  E8 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  90  00  08  8A  5F 
+ Input: in = 11 
+ 1B  13  05  07  11  00  1E  4E  00  08  0B 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  90  08  10  8D  95 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  34  00  24  00  00  00  00  00  32  EA  88 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8F  E8  08  F5  99 
+ Input: in = 11 
+ 1B  12  05  07  11  00  1E  4D  00  C9  37 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8F  F0  10  FF  93 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  34  00  23  00  00  00  00  00  34  5B  48 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8F  D0  08  E6  59 
+ Input: in = 11 
+ 1B  11  05  07  11  00  1E  4C  00  88  B2 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8F  D8  10  E1  93 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  35  00  23  00  00  00  00  00  34  56  D8 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8F  B8  08  C9  99 
+ Input: in = 11 
+ 1B  10  05  07  11  00  1E  4B  FF  0B  0E 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8F  C0  10  EB  93 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  35  00  23  00  00  00  00  00  34  56  D8 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8F  A0  08  C3  99 
+ Input: in = 11 
+ 1B  09  05  07  11  00  1E  44  00  8F  D8 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8F  A8  10  C4  53 
+ Input: in = 19 
+ 1B  00  20  00  00  00  00  00  31  00  23  00  00  00  00  00  34  60  1B 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8F  88  08  DD  99 
+ Input: in = 11 
+ 1B  08  05  07  11  00  1E  43  00  4C  24 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8F  90  10  D7  93 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  02  00  00  00  00  00  07  8F  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8F  70  08  9E  59 
+ Input: in = 11 
+ 1B  07  05  07  11  00  1E  42  00  0D  F4 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8F  78  10  99  93 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  02  00  00  00  00  00  07  8F  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8F  58  08  80  59 
+ Input: in = 11 
+ 1B  06  05  07  11  00  1E  41  00  CC  C8 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8F  60  10  93  93 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  01  00  00  00  00  00  08  BF  B0 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8F  40  08  8A  59 
+ Input: in = 11 
+ 1B  05  05  07  11  00  1E  40  00  8D  4D 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8F  48  10  8D  93 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  01  00  00  00  00  00  07  FF  B4 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8F  28  08  A5  99 
+ Input: in = 11 
+ 1B  04  05  07  11  00  1E  3F  00  6C  B1 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8F  30  10  AF  93 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  01  00  00  00  00  00  07  BC  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8F  10  08  B6  59 
+ Input: in = 11 
+ 1B  03  05  07  11  00  1E  3E  FF  6C  87 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8F  18  10  B1  93 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  02  00  00  00  00  00  06  4E  75 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8E  F8  08  A9  99 
+ Input: in = 11 
+ 1B  02  05  07  11  00  1E  3D  00  ED  FB 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8F  00  10  BB  93 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  02  00  00  00  00  00  07  8F  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8E  E0  08  A3  99 
+ Input: in = 11 
+ 1B  01  05  07  11  00  1E  3C  00  AC  7E 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8E  E8  10  A4  53 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  01  00  00  00  00  00  06  3E  74 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8E  C8  08  BD  99 
+ Input: in = 11 
+ 1B  00  05  07  11  00  1E  3B  00  6F  82 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8E  D0  10  B7  93 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  01  00  00  00  00  00  07  FF  B4 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8E  B0  08  9F  99 
+ Input: in = 11 
+ 1B  23  04  07  11  00  1E  5D  00  16  EF 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8E  B8  10  98  53 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  08  00  01  00  00  00  00  00  07  BE  44 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8E  98  08  81  99 
+ Input: in = 11 
+ 1B  22  04  07  11  00  1E  5C  00  D6  B3 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8E  A0  10  92  53 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  08  00  02  00  00  00  00  00  07  CE  45 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8E  80  08  8B  99 
+ Input: in = 11 
+ 1B  21  04  07  11  00  1E  5B  00  94  96 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8E  88  10  8C  53 
+ Input: in = 19 
+ 1B  00  1E  00  00  00  00  00  2C  00  15  00  00  00  00  00  1F  5D  47 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8E  68  08  C5  99 
+ Input: in = 11 
+ 1B  20  04  07  11  00  1E  5A  FF  14  8A 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8E  70  10  CF  93 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  08  00  01  00  00  00  00  00  07  BE  44 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8E  50  08  D6  59 
+ Input: in = 11 
+ 1B  19  04  07  11  00  1E  53  00  91  E4 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8E  58  10  D1  93 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  01  00  00  00  00  00  07  FF  B4 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8E  38  08  F9  99 
+ Input: in = 11 
+ 1B  18  04  07  11  00  1E  52  00  51  B8 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8E  40  10  DB  93 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  34  00  0A  00  00  00  00  00  14  E2  52 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8E  20  08  F3  99 
+ Input: in = 11 
+ 1B  17  04  07  11  00  1E  51  00  11  08 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8E  28  10  F4  53 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  33  00  23  00  00  00  00  00  33  7B  B8 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8E  08  08  ED  99 
+ Input: in = 11 
+ 1B  16  04  07  11  00  1E  50  00  D1  54 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8E  10  10  E7  93 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  33  00  23  00  00  00  00  00  33  3C  BA 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8D  F0  08  5E  59 
+ Input: in = 11 
+ 1B  15  04  07  11  00  1E  4F  00  99  71 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8D  F8  10  59  93 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  32  00  23  00  00  00  00  00  32  F0  EA 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8D  D8  08  40  59 
+ Input: in = 11 
+ 1B  14  04  07  11  00  1E  4E  00  59  2D 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8D  E0  10  53  93 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  0F  00  00  00  00  00  19  90  7C 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8D  C0  08  4A  59 
+ Input: in = 11 
+ 1B  13  04  07  11  00  1E  4D  FF  58  7B 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8D  C8  10  4D  93 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  01  00  00  00  00  00  07  BC  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8D  A8  08  65  99 
+ Input: in = 11 
+ 1B  12  04  07  11  00  1E  4C  00  D8  67 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8D  B0  10  6F  93 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  02  00  00  00  00  00  07  8F  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8D  90  08  76  59 
+ Input: in = 11 
+ 1B  11  04  07  11  00  1E  4B  00  9A  42 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8D  98  10  71  93 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  02  00  00  00  00  00  07  8F  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8D  78  08  38  59 
+ Input: in = 11 
+ 1B  10  04  07  11  00  1E  4A  00  5A  1E 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8D  80  10  7B  93 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  35  00  1D  00  00  00  00  00  2C  CE  13 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8D  60  08  32  59 
+ Input: in = 11 
+ 1B  09  04  07  11  00  1E  43  00  9D  28 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8D  68  10  35  93 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  36  00  23  00  00  00  00  00  35  83  E8 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8D  48  08  2C  59 
+ Input: in = 11 
+ 1B  08  04  07  11  00  1E  42  00  5D  74 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8D  50  10  26  53 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  08  00  1D  00  00  00  00  00  2B  21  59 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8D  30  08  0E  59 
+ Input: in = 11 
+ 1B  07  04  07  11  00  1E  41  00  1D  C4 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8D  38  10  09  93 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  01  00  00  00  00  00  07  FF  B4 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8D  18  08  10  59 
+ Input: in = 11 
+ 1B  06  04  07  11  00  1E  40  FF  9D  D8 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8D  20  10  03  93 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  01  00  00  00  00  00  07  FF  B4 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8D  00  08  1A  59 
+ Input: in = 11 
+ 1B  05  04  07  11  00  1E  3F  00  BD  BD 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8D  08  10  1D  93 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  01  00  00  00  00  00  07  BC  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8C  E8  08  05  99 
+ Input: in = 11 
+ 1B  04  04  07  11  00  1E  3E  00  7D  E1 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8C  F0  10  0F  93 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  02  00  00  00  00  00  07  8F  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8C  D0  08  16  59 
+ Input: in = 11 
+ 1B  03  04  07  11  00  1E  3D  00  3C  F7 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8C  D8  10  11  93 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  06  00  02  00  00  00  00  00  07  82  25 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8C  B8  08  39  99 
+ Input: in = 11 
+ 1B  02  04  07  11  00  1E  3C  00  FC  AB 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8C  C0  10  1B  93 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  01  00  00  00  00  00  07  FF  B4 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8C  A0  08  33  99 
+ Input: in = 11 
+ 1B  01  04  07  11  00  1E  3B  00  BE  8E 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8C  A8  10  34  53 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  01  00  00  00  00  00  07  FF  B4 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8C  88  08  2D  99 
+ Input: in = 11 
+ 1B  00  04  07  11  00  1E  3A  00  7E  D2 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8C  90  10  27  93 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  01  00  00  00  00  00  07  BC  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8C  70  08  6E  59 
+ Input: in = 11 
+ 1B  23  03  07  11  00  1E  5C  FF  21  FF 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8C  78  10  69  93 
+ Input: in = 19 
+ 1B  00  1A  00  00  00  00  00  27  00  02  00  00  00  00  00  07  4D  7F 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8C  58  08  70  59 
+ Input: in = 11 
+ 1B  22  03  07  11  00  1E  5B  00  A2  43 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8C  60  10  63  93 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  08  00  02  00  00  00  00  00  08  CD  40 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8C  40  08  7A  59 
+ Input: in = 11 
+ 1B  21  03  07  11  00  1E  5A  00  E3  C6 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8C  48  10  7D  93 
+ Input: in = 19 
+ 1B  00  1A  00  00  00  00  00  27  00  23  00  00  00  00  00  32  BC  6A 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8C  28  08  55  99 
+ Input: in = 11 
+ 1B  20  03  07  11  00  1E  59  00  22  FA 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8C  30  10  5F  93 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  06  00  01  00  00  00  00  00  07  B1  25 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8C  10  08  46  59 
+ Input: in = 11 
+ 1B  19  03  07  11  00  1E  52  00  E6  B4 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8C  18  10  41  93 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  34  00  0F  00  00  00  00  00  19  31  95 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8B  F8  08  B9  98 
+ Input: in = 11 
+ 1B  18  03  07  11  00  1E  51  00  27  88 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8C  00  10  4B  93 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  32  00  23  00  00  00  00  00  34  37  EA 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8B  E0  08  B3  98 
+ Input: in = 11 
+ 1B  17  03  07  11  00  1E  50  00  66  58 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8B  E8  10  B4  52 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  33  00  23  00  00  00  00  00  31  BD  7B 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8B  C8  08  AD  98 
+ Input: in = 11 
+ 1B  16  03  07  11  00  1E  4F  FF  EF  E4 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8B  D0  10  A7  92 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  32  00  23  00  00  00  00  00  32  F0  EA 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8B  B0  08  8F  98 
+ Input: in = 11 
+ 1B  15  03  07  11  00  1E  4E  00  EE  21 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8B  B8  10  88  52 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  06  00  00  00  00  00  0E  49  72 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8B  98  08  91  98 
+ Input: in = 11 
+ 1B  14  03  07  11  00  1E  4D  0A  AF  1A 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8B  A0  10  82  52 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  08  00  01  00  00  00  00  00  07  BE  44 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8B  80  08  9B  98 
+ Input: in = 11 
+ 1B  13  03  07  11  00  1E  4C  0B  2E  AC 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8B  88  10  9C  52 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  34  00  23  00  00  00  00  00  35  DD  8A 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8B  68  08  D5  98 
+ Input: in = 11 
+ 1B  12  03  07  11  00  1E  4B  0C  AC  92 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8B  70  10  DF  92 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  34  00  23  00  00  00  00  00  32  9C  48 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8B  50  08  C6  58 
+ Input: in = 11 
+ 1B  11  03  07  11  00  1E  4A  0C  ED  17 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8B  58  10  C1  92 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  34  00  23  00  00  00  00  00  33  5D  88 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8B  38  08  E9  98 
+ Input: in = 11 
+ 1B  10  03  07  11  00  1E  49  0B  6D  E9 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8B  40  10  CB  92 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  34  00  24  00  00  00  00  00  35  EC  48 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8B  20  08  E3  98 
+ Input: in = 11 
+ 1B  09  03  07  11  00  1E  42  FF  AA  38 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8B  28  10  E4  52 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  03  00  00  00  00  00  0A  5E  B0 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8B  08  08  FD  98 
+ Input: in = 11 
+ 1B  08  03  07  11  00  1E  41  0B  6A  83 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8B  10  10  F7  92 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  00  00  00  00  00  00  06  6D  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8A  F0  08  EF  98 
+ Input: in = 11 
+ 1B  07  03  07  11  00  1E  40  0B  2B  53 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8A  F8  10  E8  52 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  06  00  01  00  00  00  00  00  07  B1  25 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8A  D8  08  F1  98 
+ Input: in = 11 
+ 1B  06  03  07  11  00  1E  3F  00  8B  68 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8A  E0  10  E2  52 
+ Input: in = 19 
+ 1B  00  00  00  00  00  00  00  07  00  01  00  00  00  00  00  07  7D  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8A  C0  08  FB  98 
+ Input: in = 11 
+ 1B  05  03  07  11  00  1E  3E  00  CA  ED 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8A  C8  10  FC  52 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  01  00  00  00  00  00  06  7D  75 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8A  A8  08  D4  58 
+ Input: in = 11 
+ 1B  04  03  07  11  00  1E  3D  00  0B  D1 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8A  B0  10  DE  52 
+ Input: in = 19 
+ 1B  00  00  00  00  00  00  00  07  00  01  00  00  00  00  00  06  BC  75 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8A  90  08  C7  98 
+ Input: in = 11 
+ 1B  03  03  07  11  00  1E  3C  00  4B  A7 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8A  98  10  C0  52 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  01  00  00  00  00  00  06  7D  75 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8A  78  08  89  98 
+ Input: in = 11 
+ 1B  02  03  07  11  00  1E  3B  FF  C8  1B 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8A  80  10  CA  52 
+ Input: in = 19 
+ 1B  00  00  00  00  00  00  00  07  00  01  00  00  00  00  00  06  BC  75 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8A  60  08  83  98 
+ Input: in = 11 
+ 1B  01  03  07  11  00  1E  3A  00  C9  DE 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8A  68  10  84  52 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  06  00  01  00  00  00  00  00  06  70  E5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8A  48  08  9D  98 
+ Input: in = 11 
+ 1B  00  03  07  11  00  1E  39  00  08  E2 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8A  50  10  97  92 
+ Input: in = 19 
+ 1B  00  1A  00  00  00  00  00  28  00  01  00  00  00  00  00  07  3F  8F 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8A  30  08  BF  98 
+ Input: in = 11 
+ 1B  23  02  07  11  00  1E  5B  00  73  4F 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8A  38  10  B8  52 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  34  00  24  00  00  00  00  00  34  6A  8A 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8A  18  08  A1  98 
+ Input: in = 11 
+ 1B  22  02  07  11  00  1E  5A  00  B3  13 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8A  20  10  B2  52 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  34  00  23  00  00  00  00  00  35  DD  8A 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  8A  00  08  AB  98 
+ Input: in = 11 
+ 1B  21  02  07  11  00  1E  59  00  F3  F6 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  8A  08  10  AC  52 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  35  00  24  00  00  00  00  00  34  67  1A 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  89  E8  08  15  98 
+ Input: in = 11 
+ 1B  20  02  07  11  00  1E  58  00  33  AA 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  89  F0  10  1F  92 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  35  00  24  00  00  00  00  00  35  A6  DA 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  89  D0  08  06  58 
+ Input: in = 11 
+ 1B  19  02  07  11  00  1E  51  FF  B6  C4 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  89  D8  10  01  92 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  08  00  16  00  00  00  00  00  22  18  9E 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  89  B8  08  29  98 
+ Input: in = 11 
+ 1B  18  02  07  11  00  1E  50  00  36  D8 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  89  C0  10  0B  92 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  01  00  00  00  00  00  07  BC  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  89  A0  08  23  98 
+ Input: in = 11 
+ 1B  17  02  07  11  00  1E  4F  00  7E  A8 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  89  A8  10  24  52 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  02  00  00  00  00  00  08  CF  B1 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  89  88  08  3D  98 
+ Input: in = 11 
+ 1B  16  02  07  11  00  1E  4E  00  BE  F4 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  89  90  10  37  92 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  02  00  00  00  00  00  07  8F  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  89  70  08  7E  58 
+ Input: in = 11 
+ 1B  15  02  07  11  00  1E  4D  00  FE  11 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  89  78  10  79  92 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  33  00  22  00  00  00  00  00  32  AA  B8 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  89  58  08  60  58 
+ Input: in = 11 
+ 1B  14  02  07  11  00  1E  4C  00  3E  4D 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  89  60  10  73  92 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  33  00  23  00  00  00  00  00  33  3C  BA 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  89  40  08  6A  58 
+ Input: in = 11 
+ 1B  13  02  07  11  00  1E  4B  00  7D  9B 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  89  48  10  6D  92 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  33  00  23  00  00  00  00  00  34  3A  7A 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  89  28  08  45  98 
+ Input: in = 11 
+ 1B  12  02  07  11  00  1E  4A  FF  FD  87 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  89  30  10  4F  92 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  34  00  24  00  00  00  00  00  34  6A  8A 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  89  10  08  56  58 
+ Input: in = 11 
+ 1B  11  02  07  11  00  1E  49  00  FD  22 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  89  18  10  51  92 
+ Input: in = 19 
+ 1B  00  22  00  00  00  01  00  30  00  22  00  00  00  00  00  31  3B  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  88  F8  08  49  98 
+ Input: in = 11 
+ 1B  10  02  07  11  00  1E  48  00  3D  7E 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  89  00  10  5B  92 
+ Input: in = 19 
+ 1B  00  1E  00  00  00  00  00  2D  00  23  00  00  00  00  00  32  C6  C9 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  88  E0  08  43  98 
+ Input: in = 11 
+ 1B  09  02  07  11  00  1E  41  00  FA  48 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  88  E8  10  44  52 
+ Input: in = 19 
+ 1B  00  04  00  00  00  00  00  0B  00  24  00  00  00  00  00  34  18  61 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  88  C8  08  5D  98 
+ Input: in = 11 
+ 1B  08  02  07  11  00  1E  40  00  3A  14 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  88  D0  10  57  92 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  01  00  00  00  00  00  06  3E  74 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  88  B0  08  7F  98 
+ Input: in = 11 
+ 1B  07  02  07  11  00  1E  3F  01  9B  A4 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  88  B8  10  78  52 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  01  00  00  00  00  00  07  FF  B4 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  88  98  08  61  98 
+ Input: in = 11 
+ 1B  06  02  07  11  00  1E  3E  00  9A  38 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  88  A0  10  72  52 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  01  00  00  00  00  00  07  BC  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  88  80  08  6B  98 
+ Input: in = 11 
+ 1B  05  02  07  11  00  1E  3D  FF  9A  9D 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  88  88  10  6C  52 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  08  00  02  00  00  00  00  00  07  CE  45 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  88  68  08  25  98 
+ Input: in = 11 
+ 1B  04  02  07  11  00  1E  3C  01  DB  41 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  88  70  10  2F  92 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  02  00  00  00  00  00  06  4E  75 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  88  50  08  36  58 
+ Input: in = 11 
+ 1B  03  02  07  11  00  1E  3B  01  98  97 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  88  58  10  31  92 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  02  00  00  00  00  00  07  8F  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  88  38  08  19  98 
+ Input: in = 11 
+ 1B  02  02  07  11  00  1E  3A  01  58  CB 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  88  40  10  3B  92 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  01  00  00  00  00  00  07  FF  B4 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  88  20  08  13  98 
+ Input: in = 11 
+ 1B  01  02  07  11  00  1E  39  00  D9  EE 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  88  28  10  14  52 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  06  00  01  00  00  00  00  00  07  B1  25 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  88  08  08  0D  98 
+ Input: in = 11 
+ 1B  00  02  07  11  00  1E  38  01  D8  72 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  88  10  10  07  92 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  32  00  0E  00  00  00  00  00  17  8B  31 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  87  F0  08  7E  5B 
+ Input: in = 11 
+ 1B  23  01  07  11  00  1E  5A  00  41  DF 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  87  F8  10  79  91 
+ Input: in = 19 
+ 1B  00  11  00  00  00  00  00  1A  00  21  00  00  00  00  00  32  D8  3C 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  87  D8  08  60  5B 
+ Input: in = 11 
+ 1B  22  01  07  11  00  1E  59  FF  C0  A3 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  87  E0  10  73  91 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  32  00  0F  00  00  00  00  00  19  1A  35 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  87  C0  08  6A  5B 
+ Input: in = 11 
+ 1B  21  01  07  11  00  1E  58  01  00  A6 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  87  C8  10  6D  91 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  32  00  23  00  00  00  00  00  33  76  28 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  87  A8  08  45  9B 
+ Input: in = 11 
+ 1B  20  01  07  11  00  1E  57  00  05  5A 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  87  B0  10  4F  91 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  32  00  23  00  00  00  00  00  33  76  28 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  87  90  08  56  5B 
+ Input: in = 11 
+ 1B  19  01  07  11  00  1E  50  01  05  D4 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  87  98  10  51  91 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  33  00  23  00  00  00  00  00  33  3C  BA 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  87  78  08  18  5B 
+ Input: in = 11 
+ 1B  18  01  07  11  00  1E  4F  01  CC  28 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  87  80  10  5B  91 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  34  00  23  00  00  00  00  00  35  9A  88 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  87  60  08  12  5B 
+ Input: in = 11 
+ 1B  17  01  07  11  00  1E  4E  00  4C  38 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  87  68  10  15  91 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  34  00  23  00  00  00  00  00  34  5B  48 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  87  48  08  0C  5B 
+ Input: in = 11 
+ 1B  16  01  07  11  00  1E  4D  01  4C  C4 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  87  50  10  06  51 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  31  00  23  00  00  00  00  00  33  25  DA 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  87  30  08  2E  5B 
+ Input: in = 11 
+ 1B  15  01  07  11  00  1E  4C  FF  8C  C1 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  87  38  10  29  91 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  32  00  23  00  00  00  00  00  32  F0  EA 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  87  18  08  30  5B 
+ Input: in = 11 
+ 1B  14  01  07  11  00  1E  4B  00  0F  7D 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  87  20  10  23  91 
+ Input: in = 19 
+ 1B  00  06  00  00  00  00  00  0D  00  24  00  00  00  00  00  32  31  C2 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  87  00  08  3A  5B 
+ Input: in = 11 
+ 1B  13  01  07  11  00  1E  4A  01  8E  CB 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  87  08  10  3D  91 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  06  00  00  00  00  00  00  00  07  A1  E5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  86  E8  08  25  9B 
+ Input: in = 11 
+ 1B  12  01  07  11  00  1E  49  01  4F  F7 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  86  F0  10  2F  91 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  06  00  01  00  00  00  00  00  07  B1  25 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  86  D0  08  36  5B 
+ Input: in = 11 
+ 1B  11  01  07  11  00  1E  48  00  CF  B2 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  86  D8  10  31  91 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  00  00  00  00  00  00  07  AC  75 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  86  B8  08  19  9B 
+ Input: in = 11 
+ 1B  10  01  07  11  00  1E  47  00  0B  8E 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  86  C0  10  3B  91 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  34  00  1B  00  00  00  00  00  28  E3  42 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  86  A0  08  13  9B 
+ Input: in = 11 
+ 1B  09  01  07  11  00  1E  40  00  C8  D8 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  86  A8  10  14  51 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  35  00  23  00  00  00  00  00  34  11  DA 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  86  88  08  0D  9B 
+ Input: in = 11 
+ 1B  08  01  07  11  00  1E  3F  FF  69  64 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  86  90  10  07  91 
+ Input: in = 19 
+ 1B  00  0F  00  00  00  00  00  19  00  22  00  00  00  00  00  33  A0  04 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  86  70  08  4E  5B 
+ Input: in = 11 
+ 1B  07  01  07  11  00  1E  3E  01  A9  34 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  86  78  10  49  91 
+ Input: in = 19 
+ 1B  00  00  00  00  00  00  00  06  00  01  00  00  00  00  00  07  70  25 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  86  58  08  50  5B 
+ Input: in = 11 
+ 1B  06  01  07  11  00  1E  3D  00  A9  C8 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  86  60  10  43  91 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  06  00  01  00  00  00  00  00  07  B1  25 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  86  40  08  5A  5B 
+ Input: in = 11 
+ 1B  05  01  07  11  00  1E  3C  00  E8  4D 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  86  48  10  5D  91 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  01  00  00  00  00  00  07  BC  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  86  28  08  75  9B 
+ Input: in = 11 
+ 1B  04  01  07  11  00  1E  3B  00  2B  B1 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  86  30  10  7F  91 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  00  00  00  00  00  00  06  6D  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  86  10  08  66  5B 
+ Input: in = 11 
+ 1B  03  01  07  11  00  1E  3A  01  AA  07 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  86  18  10  61  91 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  01  00  00  00  00  00  06  7D  75 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  85  F8  08  D8  5B 
+ Input: in = 11 
+ 1B  02  01  07  11  00  1E  39  01  6B  3B 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  86  00  10  6B  91 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  06  00  00  00  00  00  00  00  06  60  25 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  85  E0  08  D2  5B 
+ Input: in = 11 
+ 1B  01  01  07  11  00  1E  38  FF  AB  3E 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  85  E8  10  D5  91 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  06  00  01  00  00  00  00  00  07  B1  25 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  85  C8  08  CC  5B 
+ Input: in = 11 
+ 1B  00  01  07  11  00  1E  37  01  EE  82 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  85  D0  10  C6  51 
+ Input: in = 19 
+ 1B  00  00  00  00  00  00  00  06  00  01  00  00  00  00  00  07  70  25 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  85  B0  08  EE  5B 
+ Input: in = 11 
+ 1B  23  30  06  11  00  1E  88  01  FD  AD 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  85  B8  10  E9  91 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  06  00  01  00  00  00  00  00  07  B1  25 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  85  98  08  F0  5B 
+ Input: in = 11 
+ 1B  22  30  06  11  00  1E  87  00  F8  51 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  85  A0  10  E3  91 
+ Input: in = 19 
+ 1B  00  00  00  00  00  00  00  06  00  01  00  00  00  00  00  07  70  25 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  85  80  08  FA  5B 
+ Input: in = 11 
+ 1B  21  30  06  11  00  1E  86  00  B9  D4 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  85  88  10  FD  91 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  01  00  00  00  00  00  07  BC  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  85  68  08  B4  5B 
+ Input: in = 11 
+ 1B  20  30  06  11  00  1E  85  01  B9  28 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  85  70  10  BE  51 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  01  00  00  00  00  00  06  7D  75 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  85  50  08  A7  9B 
+ Input: in = 11 
+ 1B  19  30  06  11  00  1E  7E  01  39  66 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  85  58  10  A0  51 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  00  00  00  00  00  00  06  6D  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  85  38  08  88  5B 
+ Input: in = 11 
+ 1B  18  30  06  11  00  1E  7D  FF  79  DA 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  85  40  10  AA  51 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  01  00  00  00  00  00  06  7D  75 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  85  20  08  82  5B 
+ Input: in = 11 
+ 1B  17  30  06  11  00  1E  7C  00  78  4A 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  85  28  10  85  91 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  06  00  00  00  00  00  00  00  07  A1  E5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  85  08  08  9C  5B 
+ Input: in = 11 
+ 1B  16  30  06  11  00  1E  7B  00  BB  B6 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  85  10  10  96  51 
+ Input: in = 19 
+ 1B  00  12  00  00  00  00  00  1C  00  02  00  00  00  00  00  08  22  4C 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  84  F0  08  8E  5B 
+ Input: in = 11 
+ 1B  15  30  06  11  00  1E  7A  00  FA  33 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  84  F8  10  89  91 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  31  00  22  00  00  00  00  00  31  B4  DB 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  84  D8  08  90  5B 
+ Input: in = 11 
+ 1B  14  30  06  11  00  1E  79  00  3B  0F 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  84  E0  10  83  91 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  32  00  23  00  00  00  00  00  32  F0  EA 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  84  C0  08  9A  5B 
+ Input: in = 11 
+ 1B  13  30  06  11  00  1E  78  01  BA  B9 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  84  C8  10  9D  91 
+ Input: in = 19 
+ 1B  00  08  00  00  00  00  00  0E  00  23  00  00  00  00  00  32  DD  F6 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  84  A8  08  B5  9B 
+ Input: in = 11 
+ 1B  12  30  06  11  00  1E  77  01  7E  85 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  84  B0  10  BF  91 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  01  00  00  00  00  00  07  BC  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  84  90  08  A6  5B 
+ Input: in = 11 
+ 1B  11  30  06  11  00  1E  76  FF  BE  80 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  84  98  10  A1  91 
+ Input: in = 19 
+ 1B  00  16  00  00  00  00  00  21  00  02  00  00  00  00  00  07  6A  DA 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  84  78  08  E8  5B 
+ Input: in = 11 
+ 1B  10  30  06  11  00  1E  75  01  FE  3C 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  84  80  10  AB  91 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  31  00  24  00  00  00  01  00  30  05  D9 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  84  60  08  E2  5B 
+ Input: in = 11 
+ 1B  09  30  06  11  00  1E  6E  00  F4  6A 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  84  68  10  E5  91 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  33  00  24  00  00  00  00  00  32  CC  B8 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  84  48  08  FC  5B 
+ Input: in = 11 
+ 1B  08  30  06  11  00  1E  6D  00  35  56 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  84  50  10  F6  51 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  0E  00  00  00  00  00  17  42  79 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  84  30  08  DE  5B 
+ Input: in = 11 
+ 1B  07  30  06  11  00  1E  6C  01  B5  46 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  84  38  10  D9  91 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  02  00  00  00  00  00  07  8F  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  84  18  08  C0  5B 
+ Input: in = 11 
+ 1B  06  30  06  11  00  1E  6B  01  76  BA 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  84  20  10  D3  91 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  02  00  00  00  00  00  07  8F  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  84  00  08  CA  5B 
+ Input: in = 11 
+ 1B  05  30  06  11  00  1E  6A  00  F6  FF 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  84  08  10  CD  91 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  01  00  00  00  00  00  07  FF  B4 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  83  E8  08  35  9A 
+ Input: in = 11 
+ 1B  04  30  06  11  00  1E  69  FF  77  83 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  83  F0  10  3F  90 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  01  00  00  00  00  00  07  FF  B4 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  83  D0  08  26  5A 
+ Input: in = 11 
+ 1B  03  30  06  11  00  1E  68  00  77  B5 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  83  D8  10  21  90 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  01  00  00  00  00  00  06  7D  75 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  83  B8  08  09  9A 
+ Input: in = 11 
+ 1B  02  30  06  11  00  1E  67  01  72  49 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  83  C0  10  2B  90 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  06  00  02  00  00  00  00  00  07  82  25 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  83  A0  08  03  9A 
+ Input: in = 11 
+ 1B  01  30  06  11  00  1E  66  01  33  CC 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  83  A8  10  04  50 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  02  00  00  00  00  00  07  8F  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  83  88  08  1D  9A 
+ Input: in = 11 
+ 1B  00  30  06  11  00  1E  65  00  33  30 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  83  90  10  17  90 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  06  00  01  00  00  00  00  00  07  F2  24 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  83  70  08  5E  5A 
+ Input: in = 11 
+ 1B  23  29  06  11  00  1E  81  00  B2  FC 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  83  78  10  59  90 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  30  00  19  00  00  00  00  00  26  34  84 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  83  58  08  40  5A 
+ Input: in = 11 
+ 1B  22  29  06  11  00  1E  80  00  72  A0 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  83  60  10  53  90 
+ Input: in = 19 
+ 1B  00  23  00  00  00  01  00  2E  00  23  00  00  00  00  00  30  AA  15 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  83  40  08  4A  5A 
+ Input: in = 11 
+ 1B  21  29  06  11  00  1E  7F  FF  33  05 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  83  48  10  4D  90 
+ Input: in = 19 
+ 1B  00  23  00  00  00  01  00  2F  00  24  00  00  00  00  00  2F  90  8D 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  83  28  08  65  9A 
+ Input: in = 11 
+ 1B  20  29  06  11  00  1E  7E  00  B3  19 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  83  30  10  6F  90 
+ Input: in = 19 
+ 1B  00  23  00  00  00  01  00  2F  00  23  00  00  00  01  00  2E  76  4D 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  83  10  08  76  5A 
+ Input: in = 11 
+ 1B  19  29  06  11  00  1E  77  01  B7  F7 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  83  18  10  71  90 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  2F  00  23  00  00  00  01  00  30  B5  BB 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  82  F8  08  69  9A 
+ Input: in = 11 
+ 1B  18  29  06  11  00  1E  76  01  77  AB 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  83  00  10  7B  90 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  30  00  23  00  00  00  01  00  31  BF  49 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  82  E0  08  63  9A 
+ Input: in = 11 
+ 1B  17  29  06  11  00  1E  75  01  37  1B 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  82  E8  10  64  50 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  31  00  23  00  00  00  01  00  30  73  19 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  82  C8  08  7D  9A 
+ Input: in = 11 
+ 1B  16  29  06  11  00  1E  74  00  36  87 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  82  D0  10  77  90 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  31  00  23  00  00  00  00  00  31  E3  19 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  82  B0  08  5F  9A 
+ Input: in = 11 
+ 1B  15  29  06  11  00  1E  73  00  74  A2 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  82  B8  10  58  50 
+ Input: in = 19 
+ 1B  00  13  00  00  00  00  00  1D  00  24  00  00  00  00  00  31  69  0C 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  82  98  08  41  9A 
+ Input: in = 11 
+ 1B  14  29  06  11  00  1E  72  FF  F4  BE 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  82  A0  10  52  50 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  02  00  00  00  00  00  07  8F  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  82  80  08  4B  9A 
+ Input: in = 11 
+ 1B  13  29  06  11  00  1E  71  00  F5  E8 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  82  88  10  4C  50 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  01  00  00  00  00  00  07  FF  B4 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  82  68  08  05  9A 
+ Input: in = 11 
+ 1B  12  29  06  11  00  1E  70  01  F4  74 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  82  70  10  0F  90 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  01  00  00  00  00  00  07  FF  B4 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  82  50  08  16  5A 
+ Input: in = 11 
+ 1B  11  29  06  11  00  1E  6F  01  BC  51 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  82  58  10  11  90 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  01  00  00  00  00  00  08  FC  B1 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  82  38  08  39  9A 
+ Input: in = 11 
+ 1B  10  29  06  11  00  1E  6E  01  7C  0D 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  82  40  10  1B  90 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  02  00  00  00  00  00  07  8F  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  82  20  08  33  9A 
+ Input: in = 11 
+ 1B  09  29  06  11  00  1E  67  01  BB  3B 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  82  28  10  34  50 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  34  00  23  00  00  00  00  00  34  1C  4A 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  82  08  08  2D  9A 
+ Input: in = 11 
+ 1B  08  29  06  11  00  1E  66  01  7B  67 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  82  10  10  27  90 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  06  00  08  00  00  00  00  00  10  68  2B 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  81  F0  08  9E  5A 
+ Input: in = 11 
+ 1B  07  29  06  11  00  1E  65  FF  BA  57 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  81  F8  10  99  90 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  00  00  00  00  00  00  07  AC  75 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  81  D8  08  80  5A 
+ Input: in = 11 
+ 1B  06  29  06  11  00  1E  64  01  FB  8B 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  81  E0  10  93  90 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  01  00  00  00  00  00  06  7D  75 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  81  C0  08  8A  5A 
+ Input: in = 11 
+ 1B  05  29  06  11  00  1E  63  01  B9  AE 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  81  C8  10  8D  90 
+ Input: in = 19 
+ 1B  00  00  00  00  00  00  00  07  00  01  00  00  00  00  00  06  BC  75 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  81  A8  08  A5  9A 
+ Input: in = 11 
+ 1B  04  29  06  11  00  1E  62  00  B8  32 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  81  B0  10  AF  90 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  01  00  00  00  00  00  06  7D  75 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  81  90  08  B6  5A 
+ Input: in = 11 
+ 1B  03  29  06  11  00  1E  61  00  F9  24 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  81  98  10  B1  90 
+ Input: in = 19 
+ 1B  00  00  00  00  00  00  00  07  00  01  00  00  00  00  00  06  BC  75 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  81  78  08  F8  5A 
+ Input: in = 11 
+ 1B  02  29  06  11  00  1E  60  01  F8  B8 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  81  80  10  BB  90 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  06  00  01  00  00  00  00  00  06  70  E5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  81  60  08  F2  5A 
+ Input: in = 11 
+ 1B  01  29  06  11  00  1E  5F  01  A9  5D 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  81  68  10  F5  90 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  06  00  01  00  00  00  00  00  07  B1  25 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  81  48  08  EC  5A 
+ Input: in = 11 
+ 1B  00  29  06  11  00  1E  5E  FF  E8  81 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  81  50  10  E6  50 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  06  00  00  00  00  00  00  00  07  A1  E5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  81  30  08  CE  5A 
+ Input: in = 11 
+ 1B  23  28  06  11  00  1E  80  01  62  6C 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  81  38  10  C9  90 
+ Input: in = 19 
+ 1B  00  1A  00  00  00  00  00  27  00  01  00  00  00  00  00  06  BF  BF 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  81  18  08  D0  5A 
+ Input: in = 11 
+ 1B  22  28  06  11  00  1E  7F  01  E2  50 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  81  20  10  C3  90 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  31  00  23  00  00  00  00  00  31  E3  19 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  81  00  08  DA  5A 
+ Input: in = 11 
+ 1B  21  28  06  11  00  1E  7E  01  A3  D5 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  81  08  10  DD  90 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  31  00  24  00  00  00  00  00  31  95  D9 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  80  E8  08  C5  9A 
+ Input: in = 11 
+ 1B  20  28  06  11  00  1E  7D  00  A3  29 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  80  F0  10  CF  90 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  34  00  23  00  00  00  00  00  33  1A  8A 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  80  D0  08  D6  5A 
+ Input: in = 11 
+ 1B  19  28  06  11  00  1E  76  00  67  67 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  80  D8  10  D1  90 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  1D  00  00  00  00  00  2B  60  A9 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  80  B8  08  F9  9A 
+ Input: in = 11 
+ 1B  18  28  06  11  00  1E  75  00  A6  5B 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  80  C0  10  DB  90 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  36  00  1E  00  00  00  00  00  2E  2F  20 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  80  A0  08  F3  9A 
+ Input: in = 11 
+ 1B  17  28  06  11  00  1E  74  FF  A7  CB 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  80  A8  10  F4  50 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  33  00  23  00  00  00  00  00  35  FB  BA 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  80  88  08  ED  9A 
+ Input: in = 11 
+ 1B  16  28  06  11  00  1E  73  01  E5  B7 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  80  90  10  E7  90 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  33  00  24  00  00  00  00  00  34  4C  BA 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  80  70  08  AE  5A 
+ Input: in = 11 
+ 1B  15  28  06  11  00  1E  72  01  A4  32 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  80  78  10  A9  90 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  33  00  24  00  00  00  00  00  34  4C  BA 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  80  58  08  B0  5A 
+ Input: in = 11 
+ 1B  14  28  06  11  00  1E  71  01  65  0E 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  80  60  10  A3  90 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  32  00  23  00  00  00  00  00  33  76  28 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  80  40  08  BA  5A 
+ Input: in = 11 
+ 1B  13  28  06  11  00  1E  70  01  25  78 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  80  48  10  BD  90 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  33  00  22  00  00  00  00  00  33  2C  7A 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  80  28  08  95  9A 
+ Input: in = 11 
+ 1B  12  28  06  11  00  1E  6F  01  EC  84 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  80  30  10  9F  90 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  33  00  23  00  00  00  00  00  33  3C  BA 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  80  10  08  86  5A 
+ Input: in = 11 
+ 1B  11  28  06  11  00  1E  6E  01  AD  01 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  80  18  10  81  90 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  34  00  23  00  00  00  00  00  33  5D  88 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7F  F8  08  F8  6A 
+ Input: in = 11 
+ 1B  10  28  06  11  00  1E  6D  FF  ED  BD 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  80  00  10  8B  90 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  34  00  24  00  00  00  00  00  33  6C  4A 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7F  E0  08  F2  6A 
+ Input: in = 11 
+ 1B  09  28  06  11  00  1E  66  00  6B  AB 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7F  E8  10  F5  A0 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  09  00  00  00  00  00  12  F4  BA 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7F  C8  08  EC  6A 
+ Input: in = 11 
+ 1B  08  28  06  11  00  1E  65  00  AA  97 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7F  D0  10  E6  60 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  01  00  00  00  00  00  06  7D  75 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7F  B0  08  CE  6A 
+ Input: in = 11 
+ 1B  07  28  06  11  00  1E  64  00  EB  47 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7F  B8  10  C9  A0 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  06  00  00  00  00  00  00  00  07  A1  E5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7F  98  08  D0  6A 
+ Input: in = 11 
+ 1B  06  28  06  11  00  1E  63  00  28  BB 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7F  A0  10  C3  A0 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  06  00  01  00  00  00  00  00  07  B1  25 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7F  80  08  DA  6A 
+ Input: in = 11 
+ 1B  05  28  06  11  00  1E  62  00  69  3E 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7F  88  10  DD  A0 
+ Input: in = 19 
+ 1B  00  00  00  00  00  00  00  07  00  01  00  00  00  00  00  07  7D  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7F  68  08  94  6A 
+ Input: in = 11 
+ 1B  04  28  06  11  00  1E  61  01  69  C2 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7F  70  10  9E  60 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  01  00  00  00  00  00  06  7D  75 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7F  50  08  87  AA 
+ Input: in = 11 
+ 1B  03  28  06  11  00  1E  60  FF  A8  34 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7F  58  10  80  60 
+ Input: in = 19 
+ 1B  00  00  00  00  00  00  00  06  00  01  00  00  00  00  00  06  B1  E5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7F  38  08  A8  6A 
+ Input: in = 11 
+ 1B  02  28  06  11  00  1E  5F  01  F9  88 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7F  40  10  8A  60 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  06  00  01  00  00  00  00  00  07  B1  25 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7F  20  08  A2  6A 
+ Input: in = 11 
+ 1B  01  28  06  11  00  1E  5E  01  B8  0D 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7F  28  10  A5  A0 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  06  00  01  00  00  00  00  00  07  B1  25 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7F  08  08  BC  6A 
+ Input: in = 11 
+ 1B  00  28  06  11  00  1E  5D  01  79  31 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7F  10  10  B6  60 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  00  00  00  00  00  00  07  EF  74 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7E  F0  08  AE  6A 
+ Input: in = 11 
+ 1B  23  27  06  11  00  1E  7F  01  DC  9C 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7E  F8  10  A9  A0 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  32  00  18  00  00  00  00  00  25  7D  25 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7E  D8  08  B0  6A 
+ Input: in = 11 
+ 1B  22  27  06  11  00  1E  7E  01  1C  C0 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7E  E0  10  A3  A0 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  31  00  23  00  00  00  00  00  31  A4  1B 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7E  C0  08  BA  6A 
+ Input: in = 11 
+ 1B  21  27  06  11  00  1E  7D  00  9D  E5 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7E  C8  10  BD  A0 
+ Input: in = 19 
+ 1B  00  25  00  00  00  00  00  33  00  23  00  00  00  00  00  30  BD  BB 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7E  A8  08  95  AA 
+ Input: in = 11 
+ 1B  20  27  06  11  00  1E  7C  FF  1D  F9 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7E  B0  10  9F  A0 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  30  00  23  00  00  00  00  00  31  EE  89 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7E  90  08  86  6A 
+ Input: in = 11 
+ 1B  19  27  06  11  00  1E  75  00  98  97 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7E  98  10  81  A0 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  30  00  24  00  00  00  00  00  31  98  49 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7E  78  08  C8  6A 
+ Input: in = 11 
+ 1B  18  27  06  11  00  1E  74  01  99  0B 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7E  80  10  8B  A0 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  32  00  23  00  00  00  00  00  32  F0  EA 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7E  60  08  C2  6A 
+ Input: in = 11 
+ 1B  17  27  06  11  00  1E  73  00  1A  BB 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7E  68  10  C5  A0 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  32  00  23  00  00  00  00  00  33  31  2A 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7E  48  08  DC  6A 
+ Input: in = 11 
+ 1B  16  27  06  11  00  1E  72  01  1B  27 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7E  50  10  D6  60 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  32  00  23  00  00  00  00  00  33  76  28 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7E  30  08  FE  6A 
+ Input: in = 11 
+ 1B  15  27  06  11  00  1E  71  00  9A  02 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7E  38  10  F9  A0 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  32  00  24  00  00  00  00  00  31  81  29 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7E  18  08  E0  6A 
+ Input: in = 11 
+ 1B  14  27  06  11  00  1E  70  00  5A  5E 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7E  20  10  F3  A0 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  32  00  24  00  00  00  00  00  32  C1  28 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7E  00  08  EA  6A 
+ Input: in = 11 
+ 1B  13  27  06  11  00  1E  6F  FF  53  C8 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7E  08  10  ED  A0 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  33  00  24  00  00  00  00  00  32  CC  B8 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7D  E8  08  54  6A 
+ Input: in = 11 
+ 1B  12  27  06  11  00  1E  6E  01  12  14 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7D  F0  10  5E  60 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  1D  00  00  00  00  00  29  E1  68 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7D  D0  08  47  AA 
+ Input: in = 11 
+ 1B  11  27  06  11  00  1E  6D  00  93  31 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7D  D8  10  40  60 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  01  00  00  00  00  00  08  BF  B0 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7D  B8  08  68  6A 
+ Input: in = 11 
+ 1B  10  27  06  11  00  1E  6C  01  92  AD 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7D  C0  10  4A  60 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  35  00  23  00  00  00  00  00  32  91  D8 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7D  A0  08  62  6A 
+ Input: in = 11 
+ 1B  09  27  06  11  00  1E  65  01  55  9B 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7D  A8  10  65  A0 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  35  00  24  00  00  00  00  00  33  61  DA 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7D  88  08  7C  6A 
+ Input: in = 11 
+ 1B  08  27  06  11  00  1E  64  00  54  07 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7D  90  10  76  60 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  0B  00  00  00  00  00  14  57  78 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7D  70  08  3F  AA 
+ Input: in = 11 
+ 1B  07  27  06  11  00  1E  63  01  D7  B7 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7D  78  10  38  60 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  02  00  00  00  00  00  07  8F  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7D  58  08  21  AA 
+ Input: in = 11 
+ 1B  06  27  06  11  00  1E  62  FF  96  6B 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7D  60  10  32  60 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  01  00  00  00  00  00  07  FF  B4 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7D  40  08  2B  AA 
+ Input: in = 11 
+ 1B  05  27  06  11  00  1E  61  01  57  0E 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7D  48  10  2C  60 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  01  00  00  00  00  00  08  BF  B0 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7D  28  08  04  6A 
+ Input: in = 11 
+ 1B  04  27  06  11  00  1E  60  01  97  52 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7D  30  10  0E  60 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  06  00  01  00  00  00  00  00  07  B1  25 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7D  10  08  17  AA 
+ Input: in = 11 
+ 1B  03  27  06  11  00  1E  5F  01  C7  44 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7D  18  10  10  60 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  02  00  00  00  00  00  07  8F  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7C  F8  08  08  6A 
+ Input: in = 11 
+ 1B  02  27  06  11  00  1E  5E  00  C6  D8 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7D  00  10  1A  60 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  02  00  00  00  00  00  07  8F  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7C  E0  08  02  6A 
+ Input: in = 11 
+ 1B  01  27  06  11  00  1E  5D  00  86  3D 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7C  E8  10  05  A0 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  01  00  00  00  00  00  07  FF  B4 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7C  C8  08  1C  6A 
+ Input: in = 11 
+ 1B  00  27  06  11  00  1E  5C  00  46  61 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7C  D0  10  16  60 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  01  00  00  00  00  00  07  FF  B4 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7C  B0  08  3E  6A 
+ Input: in = 11 
+ 1B  23  26  06  11  00  1E  7E  FF  4C  4C 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7C  B8  10  39  A0 
+ Input: in = 19 
+ 1B  00  03  00  00  00  00  00  09  00  01  00  00  00  00  00  07  72  D4 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7C  98  08  20  6A 
+ Input: in = 11 
+ 1B  22  26  06  11  00  1E  7D  00  CD  30 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7C  A0  10  33  A0 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  01  00  00  00  00  00  07  FF  B4 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7C  80  08  2A  6A 
+ Input: in = 11 
+ 1B  21  26  06  11  00  1E  7C  00  8C  B5 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7C  88  10  2D  A0 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  01  00  00  00  00  00  08  BF  B0 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7C  68  08  64  6A 
+ Input: in = 11 
+ 1B  20  26  06  11  00  1E  7B  00  4F  49 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7C  70  10  6E  60 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  2F  00  1F  00  00  00  00  00  2B  58  73 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7C  50  08  77  AA 
+ Input: in = 11 
+ 1B  19  26  06  11  00  1E  74  00  89  C7 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7C  58  10  70  60 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  08  00  0B  00  00  00  00  00  13  14  4B 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7C  38  08  58  6A 
+ Input: in = 11 
+ 1B  18  26  06  11  00  1E  73  01  8B  FB 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7C  40  10  7A  60 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  08  00  01  00  00  00  00  00  07  BE  44 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7C  20  08  52  6A 
+ Input: in = 11 
+ 1B  17  26  06  11  00  1E  72  01  CA  2B 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7C  28  10  55  A0 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  08  00  01  00  00  00  00  00  07  BE  44 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7C  08  08  4C  6A 
+ Input: in = 11 
+ 1B  16  26  06  11  00  1E  71  FF  8A  97 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7C  10  10  46  60 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  31  00  16  00  00  00  00  00  21  87  D6 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7B  F0  08  BE  6B 
+ Input: in = 11 
+ 1B  15  26  06  11  00  1E  70  01  4A  92 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7B  F8  10  B9  A1 
+ Input: in = 19 
+ 1B  00  22  00  00  00  00  00  33  00  23  00  00  00  00  00  32  7B  78 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7B  D8  08  A0  6B 
+ Input: in = 11 
+ 1B  14  26  06  11  00  1E  6F  01  83  6E 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7B  E0  10  B3  A1 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  32  00  22  00  00  00  00  00  32  A7  28 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7B  C0  08  AA  6B 
+ Input: in = 11 
+ 1B  13  26  06  11  00  1E  6E  01  C3  18 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7B  C8  10  AD  A1 
+ Input: in = 19 
+ 1B  00  22  00  00  00  00  00  32  00  23  00  00  00  00  00  33  B7  28 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7B  A8  08  85  AB 
+ Input: in = 11 
+ 1B  12  26  06  11  00  1E  6D  00  C3  E4 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7B  B0  10  8F  A1 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  33  00  23  00  00  00  00  00  34  7D  78 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7B  90  08  96  6B 
+ Input: in = 11 
+ 1B  11  26  06  11  00  1E  6C  00  82  61 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7B  98  10  91  A1 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  35  00  23  00  00  00  00  00  34  11  DA 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7B  78  08  D8  6B 
+ Input: in = 11 
+ 1B  10  26  06  11  00  1E  6B  01  80  5D 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7B  80  10  9B  A1 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  35  00  23  00  00  00  00  00  35  97  18 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7B  60  08  D2  6B 
+ Input: in = 11 
+ 1B  09  26  06  11  00  1E  64  FF  C5  4B 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7B  68  10  D5  A1 
+ Input: in = 19 
+ 1B  00  0E  00  00  00  00  00  18  00  23  00  00  00  00  00  35  FC  56 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7B  48  08  CC  6B 
+ Input: in = 11 
+ 1B  08  26  06  11  00  1E  63  01  87  37 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7B  50  10  C6  61 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  02  00  00  00  00  00  07  8F  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7B  30  08  EE  6B 
+ Input: in = 11 
+ 1B  07  26  06  11  00  1E  62  01  C6  E7 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7B  38  10  E9  A1 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  08  00  01  00  00  00  00  00  07  BE  44 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7B  18  08  F0  6B 
+ Input: in = 11 
+ 1B  06  26  06  11  00  1E  61  00  C6  1B 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7B  20  10  E3  A1 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  01  00  00  00  00  00  07  FF  B4 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7B  00  08  FA  6B 
+ Input: in = 11 
+ 1B  05  26  06  11  00  1E  60  00  87  9E 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7B  08  10  FD  A1 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  01  00  00  00  00  00  07  BC  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7A  E8  08  E5  AB 
+ Input: in = 11 
+ 1B  04  26  06  11  00  1E  5F  00  57  A2 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7A  F0  10  EF  A1 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  02  00  00  00  00  00  07  8F  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7A  D0  08  F6  6B 
+ Input: in = 11 
+ 1B  03  26  06  11  00  1E  5E  00  17  D4 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7A  D8  10  F1  A1 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  02  00  00  00  00  00  07  8F  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7A  B8  08  D9  AB 
+ Input: in = 11 
+ 1B  02  26  06  11  00  1E  5D  FF  96  A8 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7A  C0  10  FB  A1 
+ Input: in = 19 
+ 1B  00  02  00  00  00  00  00  07  00  01  00  00  00  00  00  06  3E  74 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7A  A0  08  D3  AB 
+ Input: in = 11 
+ 1B  01  26  06  11  00  1E  5C  00  97  6D 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7A  A8  10  D4  61 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  32  00  05  00  00  00  00  00  0C  36  F8 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7A  88  08  CD  AB 
+ Input: in = 11 
+ 1B  00  26  06  11  00  1E  5B  01  95  51 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7A  90  10  C7  A1 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  33  00  22  00  00  00  00  00  32  AA  B8 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7A  70  08  8E  6B 
+ Input: in = 11 
+ 1B  23  25  06  11  00  1E  7D  01  FE  3C 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7A  78  10  89  A1 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  35  00  24  00  00  00  00  00  35  A6  DA 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7A  58  08  90  6B 
+ Input: in = 11 
+ 1B  22  25  06  11  00  1E  7C  00  FF  A0 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7A  60  10  83  A1 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  36  00  23  00  00  00  00  00  35  83  E8 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7A  40  08  9A  6B 
+ Input: in = 11 
+ 1B  21  25  06  11  00  1E  7B  00  BD  85 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7A  48  10  9D  A1 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  33  00  23  00  00  00  00  00  35  FB  BA 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7A  28  08  B5  AB 
+ Input: in = 11 
+ 1B  20  25  06  11  00  1E  7A  01  BC  19 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7A  30  10  BF  A1 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  34  00  24  00  00  00  00  00  34  6A  8A 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  7A  10  08  A6  6B 
+ Input: in = 11 
+ 1B  19  25  06  11  00  1E  73  FF  F8  B7 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7A  18  10  A1  A1 
+ Input: in = 19 
+ 1B  00  1F  00  00  00  00  00  2D  00  23  00  00  00  00  00  32  07  C9 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  79  F8  08  18  6B 
+ Input: in = 11 
+ 1B  18  25  06  11  00  1E  72  00  78  AB 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  7A  00  10  AB  A1 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  02  00  00  00  00  00  07  8F  B5 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  79  E0  08  12  6B 
+ Input: in = 11 
+ 1B  17  25  06  11  00  1E  71  00  38  1B 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  79  E8  10  15  A1 
+ Input: in = 19 
+ 1B  00  01  00  00  00  00  00  07  00  02  00  00  00  00  00  08  CF  B1 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  79  C8  08  0C  6B 
+ Input: in = 11 
+ 1B  16  25  06  11  00  1E  70  00  F8  47 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  79  D0  10  06  61 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  36  00  0C  00  00  00  00  00  16  1C  F3 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  79  B0  08  2E  6B 
+ Input: in = 11 
+ 1B  15  25  06  11  00  1E  6F  00  B0  62 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  79  B8  10  29  A1 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  34  00  22  00  00  00  00  00  33  0A  4A 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  79  98  08  30  6B 
+ Input: in = 11 
+ 1B  14  25  06  11  00  1E  6E  00  70  3E 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  79  A0  10  23  A1 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  33  00  23  00  00  00  00  00  34  3A  7A 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  79  80  08  3A  6B 
+ Input: in = 11 
+ 1B  13  25  06  11  00  1E  6D  00  31  28 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  79  88  10  3D  A1 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  33  00  23  00  00  00  00  00  33  7B  B8 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  79  68  08  74  6B 
+ Input: in = 11 
+ 1B  12  25  06  11  00  1E  6C  FF  B1  34 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  79  70  10  7E  61 
+ Input: in = 19 
+ 1B  00  23  00  00  00  00  00  34  00  24  00  00  00  00  00  33  2B  48 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  79  50  08  67  AB 
+ Input: in = 11 
+ 1B  11  25  06  11  00  1E  6B  00  B3  51 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  79  58  10  60  61 
+ Input: in = 19 
+ 1B  00  24  00  00  00  00  00  33  00  23  00  00  00  00  00  34  7D  78 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  79  38  08  48  6B 
+ Input: in = 11 
+ 1B  10  25  06  11  00  1E  6A  00  73  0D 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  79  40  10  6A  61 
+ Input: in = 19 
+ 1B  00  09  00  00  00  00  00  10  00  23  00  00  00  00  00  33  5C  96 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  79  20  08  42  6B 
+ Input: in = 11 
+ 1B  09  25  06  11  00  1E  63  00  B4  3B 
+ step 1
+ step 2
+ step 3
+ step 4
+ step 5
+ step 101
+ step 102 00 
+ step 104 00 
+ step 105 00 
+ step 106
+ step 107
+ step 108
+ step 109
+ step 10a
+ step 10b
+ step 10c
+ step 10d
+ step 10e
+ step 999
+
+ Output: out = 10  in = 04 
+ 1B  01  30  30  30  30  30  30  4E  9B 
+ Input: in = 04 
+ 1B  00  0B  40 
+
+ Output: out = 05  in = 11 
+ 1B  04  00  03  07 
+ Input: in = 11 
+ 1B  43  28  21  01  25  07  11  00  D5  CB 
+
+ Output: out = 05  in = 10 
+ 1B  08  04  07  C4 
+ Input: in = 10 
+ 1B  80  21  25  07  11  92  F0  F6  5F 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  79  38  08  48  6B 
+ Input: in = 11 
+ 1B  10  25  06  11  00  1E  6A  00  73  0D 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  79  40  10  6A  61 
+ Input: in = 19 
+ 1B  00  09  00  00  00  00  00  10  00  23  00  00  00  00  00  33  5C  96 
+ step 101
+ step 102 01 
+ step 103 01 
+ step 102 02 
+ step 103 02 
+ step 102 03 
+ step 103 03 
+ step 102 04 
+ step 103 04 
+ step 102 05 
+ step 103 05 
+ step 102 06 
+ step 103 06 
+ step 102 07 
+ step 103 07 
+ step 102 08 
+ step 103 08 
+ step 102 09 
+ step 103 09 
+ step 102 10 
+ step 103 10 
+ step 102 11 
+ step 103 11 
+ step 102 12 
+ step 103 12 
+ step 102 13 
+ step 103 13 
+ step 102 14 
+ step 103 14 
+ step 102 15 
+ step 103 15 
+ step 102 16 
+ step 103 16 
+ step 102 17 
+ step 103 17 
+ step 102 18 
+ step 103 18 
+ step 102 19 
+ step 103 19 
+ step 102 20 
+ step 103 20 
+ step 102 21 
+ step 103 21 
+ step 102 22 
+ step 103 22 
+ step 102 23 
+ step 103 23 
+ step 102 24 
+ step 103 24 
+ step 102 25 
+ step 103 25 
+ step 102 26 
+ step 103 26 
+ step 102 27 
+ step 103 27 
+ step 102 28 
+ step 103 28 
+ step 102 29 
+ step 103 29 
+ step 102 30 
+ step 103 30 
+ step 102 31 
+ step 103 31 
+ step 102 32 
+ step 103 32 
+ step 102 33 
+ step 103 33 
+ step 102 34 
+ step 103 34 
+ step 102 35 
+ step 103 35 
+ step 102 36 
+ step 103 36 
+ step 102 37 
+ step 103 37 
+ step 102 38 
+ step 103 38 
+ step 102 39 
+ step 103 39 
+ step 102 40 
+ step 103 40 
+ step 102 41 
+ step 103 41 
+ step 102 42 
+ step 103 42 
+ step 102 43 
+ step 103 43 
+ step 102 44 
+ step 103 44 
+ step 102 45 
+ step 103 45 
+ step 102 46 
+ step 103 46 
+ step 102 47 
+ step 103 47 
+ step 102 48 
+ step 103 48 
+ step 102 49 
+ step 103 49 
+ step 102 50 
+ step 103 50 
+ step 102 51 
+ step 103 51 
+ step 102 52 
+ step 103 52 
+ step 102 53 
+ step 103 53 
+ step 102 54 
+ step 103 54 
+ step 102 55 
+ step 103 55 
+ step 102 56 
+ step 103 56 
+ step 102 57 
+ step 103 57 
+ step 102 58 
+ step 103 58 
+ step 102 59 
+ step 103 59 
+ step 102 60 
+ step 103 60 
+ step 102 61 
+ step 103 61 
+ step 102 62 
+ step 103 62 
+ step 102 63 
+ step 103 63 
+ step 104 64 
+
+ Output: out = 10  in = 04 
+ 1B  01  30  30  30  30  30  30  4E  9B 
+
+ Output: out = 05  in = 11 
+ 1B  04  00  03  07 
+
+ Output: out = 05  in = 05 
+ 1B  08  09  C6  01 
+
+ Output: out = 05  in = 10 
+ 1B  08  04  07  C4 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  92  E8  08  65  9F 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  92  F0  10  6F  95 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  92  D0  08  76  5F 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  92  D8  10  71  95 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  92  B8  08  59  9F 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  92  C0  10  7B  95 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  92  A0  08  53  9F 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  92  A8  10  54  55 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  92  88  08  4D  9F 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  92  90  10  47  95 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  92  70  08  0E  5F 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  92  78  10  09  95 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  92  58  08  10  5F 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  92  60  10  03  95 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  92  40  08  1A  5F 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  92  48  10  1D  95 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  92  28  08  35  9F 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  92  30  10  3F  95 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  92  10  08  26  5F 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  92  18  10  21  95 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  91  F8  08  98  5F 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  92  00  10  2B  95 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  91  E0  08  92  5F 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  91  E8  10  95  95 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  91  C8  08  8C  5F 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  91  D0  10  86  55 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  91  B0  08  AE  5F 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  91  B8  10  A9  95 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  91  98  08  B0  5F 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  91  A0  10  A3  95 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  91  80  08  BA  5F 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  91  88  10  BD  95 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  91  68  08  F4  5F 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  91  70  10  FE  55 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  91  50  08  E7  9F 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  91  58  10  E0  55 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  91  38  08  C8  5F 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  91  40  10  EA  55 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  91  20  08  C2  5F 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  91  28  10  C5  95 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  91  08  08  DC  5F 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  91  10  10  D6  55 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  90  F0  08  CE  5F 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  90  F8  10  C9  95 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  90  D8  08  D0  5F 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  90  E0  10  C3  95 
+
+ Output: out = 08  in = 11 
+ 1B  06  03  90  C0  08  DA  5F 
+
+ Output: out = 08  in = 19 
+ 1B  06  03  90  C8  10  DD  95 
+
+ Output: out = 05  in = 17 
+ 1B  04  20  02  DF 
+
+ Output: out = 05  in = 17 
+ 1B  04  21  C3  1F 
+
+ Output: out = 05  in = 17 
+ 1B  04  22  83  1E 
+
+ Output: out = 05  in = 17 
+ 1B  04  23  42  DE 
+
+ Output: out = 05  in = 17 
+ 1B  04  24  03  1C 
+
+ Output: out = 05  in = 17 
+ 1B  04  25  C2  DC 
+
+ Output: out = 05  in = 17 
+ 1B  04  26  82  DD 
+
+ Output: out = 05  in = 17 
+ 1B  04  27  43  1D 
+
+ Output: out = 05  in = 17 
+ 1B  04  28  03  19 
+
+ Output: out = 05  in = 17 
+ 1B  04  29  C2  D9 
+
+ Output: out = 10  in = 04 
+ 1B  01  30  30  30  30  30  30  4E  9B 
+
+ Output: out = 06  in = 04 
+ 1B  03  18  01  3D  00 
+
+ Output: out = 10  in = 04 
+ 1B  01  30  30  30  30  30  30  4E  9B 
+
+ Output: out = 05  in = 11 
+ 1B  04  00  03  07 
+
+ Output: out = 10  in = 04 
+ 1B  01  30  30  30  30  30  30  4E  9B 
+
+ Output: out = 05  in = 11 
+ 1B  04  00  03  07 
+
+ Output: out = 10  in = 04 
+ 1B  01  30  30  30  30  30  30  4E  9B 
+
+ Output: out = 05  in = 11 
+ 1B  04  00  03  07 
+
+ Output: out = 10  in = 04 
+ 1B  01  30  30  30  30  30  30  4E  9B 
+
+ Output: out = 05  in = 11 
+ 1B  04  00  03  07 
+
+ Output: out = 10  in = 04 
+ 1B  01  30  30  30  30  30  30  4E  9B 
+
+ Output: out = 05  in = 11 
+ 1B  04  00  03  07 
+
+ Output: out = 10  in = 04 
+ 1B  01  30  30  30  30  30  30  4E  9B 
+
+ Output: out = 05  in = 11 
+ 1B  04  00  03  07 

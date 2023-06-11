@@ -1,0 +1,49 @@
+unit kernel;
+
+interface
+
+const
+  wGraphMax     = 2730;
+  
+  MONTHS        = 12;
+  DAYS          = 28;
+  
+  panCOMPORT    = 0;
+  panREPEATS    = 1;
+  panCONNECT    = 2;
+  panTIMEOUT    = 3;
+  panNOW        = 4;
+  panPROGRESS   = 5;
+
+  stSETTING:    string  = 'Настройки';
+  stCOMNUMBER:  string  = 'Порт';
+  stBAUD:       string  = 'Скорость';
+  stPARITY:     string  = 'Чётность';
+  stTIMEOUT:    string  = 'Таймаут';
+  stSER_ADDR:   string  = 'Адрес';
+  stDIAL:       string  = 'Номер';
+  stDEVICE:     string  = 'Устройство';
+
+  stDEV_ADDR:   string  = 'Счетчик';
+  stDEV_PASS:   string  = 'Пароль';
+
+  stPARAMS:     string  = 'Параметры';
+  stDIGITS:     string  = 'Знаков_после_запятой';
+  stCOLWIDTH:   string  = 'Ширина_столбца';
+  stIS_TUNNEL:  string  = 'Туннель?';  
+  stTUNNEL:     string  = 'Туннель';
+  stDAYS_MIN1:  string  = 'Сутки1_от';
+  stDAYS_MAX1:  string  = 'Сутки1_до';
+  stDAYS_MIN2:  string  = 'Сутки2_от';
+  stDAYS_MAX2:  string  = 'Сутки2_до';
+  stMONTHS_MIN: string  = 'Месяцы_от';
+  stMONTHS_MAX: string  = 'Месяцы_до';
+
+  stOPTIONS:    string  = 'Опции';
+  stINQUIRY:    string  = 'Запрос_';
+  
+  LOGS_DIR:     string  = 'log';
+
+implementation
+
+end.
